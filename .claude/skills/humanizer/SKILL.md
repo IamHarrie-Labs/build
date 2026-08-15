@@ -159,6 +159,8 @@ A single "serves as" in an otherwise normal paragraph is fine.
 
 "Not only X but Y", "It's not just about X, it's Y", and clipped tailing negations ("no guessing", "no wasted motion") tacked onto sentence ends. Density is the tell: once in a short piece is plenty. Rewrite the fragment as a real clause.
 
+**The disguised form:** the same pattern split across a sentence boundary. "The hard part was never X. It's Y." "The problem isn't X. It's Y." "This was never about X. It's about Y." Punctuation doesn't change the shape; a negated setup followed by the "real" answer is negative parallelism wherever the period falls. Fix it by stating Y directly and letting X go unsaid, or by making the contrast concrete instead of rhetorical ("Sync breaks down when..." rather than "The hard part was never moving files. It's...").
+
 ### 3.4 Rule of three
 
 LLMs force triads where the third item is padding or a near-synonym. Real tricolons exist ("life, liberty, and the pursuit of happiness"); only cut when the third item pulls no weight.
@@ -302,6 +304,7 @@ For short-form (tweets, replies, subject lines): the tells compress too. Rule-of
 4. **Revise** into a final version that fixes every audit finding.
 5. **Mandatory final checks:**
    - **Dash scan:** search for `—` and `–`. Zero allowed (sample override excepted).
+   - **Contrast scan:** search for negated setups followed by a reveal, in any punctuation: "not just X, ... Y", "isn't X. It's Y", "was never X. It's Y", "not about X. It's about Y". At most one true contrast per piece, and only when both halves carry real content.
    - **Rhythm check:** each paragraph has at least one sentence notably shorter and one notably longer than its average. If all sentences sit within a 5-word band, restructure.
    - **Cohesion check:** every paragraph opens with its claim; every sentence links to the previous by connective or echoed key word.
    - **Read-aloud test:** flag anything that sounds like a press release, that no one would say to a colleague, or that could describe any topic if you swapped the nouns.
