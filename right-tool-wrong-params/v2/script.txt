@@ -1,0 +1,13 @@
+You ask your AI agent to send five hundred dollars to Sam.
+It does, and the money still lands in a hacker's account.
+Because earlier, the agent read a message with one hidden line, and that line swapped Sam's account number for the hacker's.
+Right tool, right steps, wrong account.
+A new paper calls this attack Right Tool, Wrong Parameters.
+But it's hard to catch, because most agent tests only check if the agent picked the right tool, and here it did.
+On one model they tested, the attack worked ninety-three percent of the time.
+So the researchers built a fix called AuthorityFlow, and it checks where every detail came from before the agent acts.
+The amount came from you, so that's fine.
+But the account number came from a stranger's message, and a stranger doesn't get to decide where your money goes.
+With that one check, attacks dropped from ninety-three percent to nine.
+So when you test your agent, don't stop at the tool it picked, and check who chose what went into it.
+Comment PAPER and I'll send you the link.

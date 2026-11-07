@@ -1,3 +1,7 @@
 vo.wav
 still-*.png
 node_modules/
+v2/video_only.mp4
+v2/sfx.wav
+v2/vo_tight.wav
+v2/render.log
