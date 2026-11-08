@@ -100,7 +100,7 @@ More than 25 of about 30 entries fall into A, B or C. **No entry protects self-c
 
 **Why a delay deters attackers (the physical-world precedent):** CVS put **time-delay safes** in 158 Indianapolis pharmacies in 2015 and reports a **~70% drop in robberies** within a year (CVS's own figure; the safes came alongside other measures). The delay matters less than the **sign on the door**: robbers leave when they know the safe can't open for ten minutes. A crypto equivalent needs that sign too, as a public, verifiable proof that this wallet can't release large amounts tonight.
 
-This also fits the theme closely. At night the owner is asleep or at home, and so most exposed to home invasion. It is also when a drainer has the most hours before anyone notices.
+**Correction:** the CVS result is an analogy, not evidence that a crypto delay deters coercion. The statistics above also do **not** show that attacks cluster at night. "Night shift" is a framing for the product, not a finding. In the pitch, claim only that the vault "creates a withdrawal intervention window". It cannot promise protection from physical harm or long-running coercion.
 
 ---
 
