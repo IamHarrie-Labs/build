@@ -96,6 +96,8 @@ More than 25 of about 30 entries fall into A, B or C. **No entry protects self-c
 
 **Self-custody has nothing comparable with consumer-level UX on Base.** The only options are a Safe with a Zodiac delay modifier (no consumer UX), BTC-focused Casa, or projects on other chains (a Solana hackathon vault, duress-alert scripts).
 
+**Closest prior art (correction):** the **Argent** smart wallet on Ethereum L1 already had daily transfer limits, a 24h pending period for larger transfers, and guardians who could lock the wallet. Argent has since moved its focus to Starknet. The *mechanism* is not new. What is new: it doesn't exist on Base with today's passkey UX, it has **curfew hours**, **rule changes are delayed** for anti-coercion, and there's a **public deterrence page**. Pitch it as "Argent's security model, rebuilt for the 2026 coercion wave on Base", not as a new invention. Argent's limited mainstream uptake of these features is also a demand risk to address.
+
 **Why a delay deters attackers (the physical-world precedent):** CVS put **time-delay safes** in 158 Indianapolis pharmacies in 2015 and reports a **~70% drop in robberies** within a year (CVS's own figure; the safes came alongside other measures). The delay matters less than the **sign on the door**: robbers leave when they know the safe can't open for ten minutes. A crypto equivalent needs that sign too, as a public, verifiable proof that this wallet can't release large amounts tonight.
 
 This also fits the theme closely. At night the owner is asleep or at home, and so most exposed to home invasion. It is also when a drainer has the most hours before anyone notices.
